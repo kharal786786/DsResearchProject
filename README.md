@@ -37,7 +37,7 @@ This project involves building and training a convolutional neural network (CNN)
 ## Usage
 1. Open the Jupyter Notebook file:
    ```bash
-   jupyter notebook Skin_Cancer_Final.ipynb
+   jupyter notebook Final_Code_Skin_Cancer.ipynb
    ```
 2. Run the cells sequentially to:
    - Load and preprocess the dataset.

@@ -26,8 +26,8 @@ This project involves building and training a convolutional neural network (CNN)
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/kharal786786.git
+   cd DsResearchProject
    ```
 2. Install the required libraries:
    ```bash
